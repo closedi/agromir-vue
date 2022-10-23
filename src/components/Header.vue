@@ -22,10 +22,10 @@ export default {
                 <a class="nav-link" href="#scrollItems">Средства защиты растений</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#scrollPrice">Pricing</a>
+                <a class="nav-link" href="#scrollPrice">Прайс</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#scrollAbout">About</a>
+                <a class="nav-link" href="#scrollAbout">Контакты</a>
               </li>
             </ul>
           </div>

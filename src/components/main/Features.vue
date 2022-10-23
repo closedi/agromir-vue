@@ -7,7 +7,7 @@ export default defineComponent({
 
 <template>
   <h2 class="display-4 fw-bold text-center" id="scrollItems">Средства защиты растений</h2>
-  <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+  <div class="row g-4 py-5 row-cols-1 row-cols-lg-3 border-bottom">
     <div class="feature col">
       <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3 rounded">
         <i class="bi-people p-2" style="font-size: 24px"></i>

@@ -16,42 +16,18 @@ export default {
           <div class="collapse navbar-collapse" id="mainCollapsedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#scrollMain">Основная информация</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#scrollItems">Средства защиты растений</a>
+                <a class="nav-link active" aria-current="page" href="#scrollAbout">О нас</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#scrollPrice">Прайс</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#scrollAbout">Контакты</a>
+                <a class="nav-link" href="#scrollContacts">Контакты</a>
               </li>
             </ul>
           </div>
         </div>
       </nav>
-<!--      <nav class="navbar navbar-expand-lg">-->
-<!--        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-expanded="false" aria-label="Toggle navigation">-->
-<!--          <span class="navbar-toggler-icon"></span>-->
-<!--        </button>-->
-
-<!--        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">-->
-<!--          <div class="offcanvas-header">-->
-<!--            <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel">Навигация</h5>-->
-<!--            <button type="button" class="btn-close btn-close-dark" data-bs-dismiss="offcanvas" aria-label="Close"></button>-->
-<!--          </div>-->
-<!--          <div class="offcanvas-body">-->
-<!--            <ul class="navbar-nav me-auto mb-2 mb-lg-0">-->
-<!--              <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Home</a></li>-->
-<!--              <li class="nav-item"><a href="#" class="nav-link">Features</a></li>-->
-<!--              <li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>-->
-<!--              <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>-->
-<!--              <li class="nav-item"><a href="#" class="nav-link">About</a></li>-->
-<!--            </ul>-->
-<!--          </div>-->
-<!--        </div>-->
-<!--      </nav>-->
     </div>
   </header>
 </template>
